@@ -1,4 +1,4 @@
-// Building a Love Calculator 
+// Building a Love Calculator using JavaScript
 
 var name1 = prompt("Enter first name: ");
 var name2 = prompt("Enter second name: ");

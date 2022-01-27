@@ -1,0 +1,9 @@
+// BMI Calculator thats calculates the BMI based on your inputs.
+
+function bmiCalculator(weight, height) {
+    var bmiResult = Math.round(weight / (height**2));
+    return bmiResult
+}
+
+var bmi = bmiCalculator(65, 1.8); 
+console.log(bmi)
